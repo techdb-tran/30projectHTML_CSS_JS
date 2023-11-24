@@ -375,7 +375,7 @@ a.active,a:hover{
         padding: 10px;
     }
     .blog-item h1{
-        margin-top: 150px;
+        margin-top: 250px;
         position: relative;
         font-family: 'Akatab', sans-serif;
         font-size: 100px;
@@ -385,7 +385,7 @@ a.active,a:hover{
     .blog-item h3{
         color: black;
         position: absolute;
-        margin-top: 150px;
+        margin-top: 250px;
         margin-left: 80px;
         font-size: 10px;
         letter-spacing: 5px;
